@@ -31,3 +31,5 @@
 🚀 Currently: Building smart, practice-driven solutions with data  
 
 > *Let data speak. I just help translate.*
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lunalykaya&show_icons=true&locale=en&layout=compact&theme=chartreuse-bright" alt="ovi" />
